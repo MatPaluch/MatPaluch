@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on web dev.
 - 📫 How to reach me:
   
-  [LinkedIn](https://www.linkedin.com/in/mateusz-paluszkiewicz-77a30b2ab/)
+ 1. [LinkedIn](https://www.linkedin.com/in/mateusz-paluszkiewicz-77a30b2ab/)
   
-  [Instagram](https://www.instagram.com/paluch.7z/)
+ 2. [Instagram](https://www.instagram.com/paluch.7z/)
   
-  [Facebook](https://www.facebook.com/mateusz.paluszkiewicz.96)
+ 3. [Facebook](https://www.facebook.com/mateusz.paluszkiewicz.96)
   
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can imitate the sound of a platypus 😂.
