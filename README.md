@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Express.js Node.js Backend side.
 - 💞️ I’m looking to collaborate on web dev.
 - 📫 How to reach me:
-  1.) [LinkedIn](https://www.linkedin.com/in/mateusz-paluszkiewicz-77a30b2ab/)
-  2.) [Instagram](https://www.instagram.com/paluch.7z/)
-  3.) [Facebook](https://www.facebook.com/mateusz.paluszkiewicz.96)
+  1. [LinkedIn](https://www.linkedin.com/in/mateusz-paluszkiewicz-77a30b2ab/)
+  2. [Instagram](https://www.instagram.com/paluch.7z/)
+  3. [Facebook](https://www.facebook.com/mateusz.paluszkiewicz.96)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can imitate the sound of a platypus 😂.
 
