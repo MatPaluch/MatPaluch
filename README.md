@@ -11,7 +11,7 @@
  3. [Facebook](https://www.facebook.com/mateusz.paluszkiewicz.96)
   
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can imitate the sound of the Perry the Platypus 😂.
+- ⚡ Fun fact: I can imitate the sound of Perry the Platypus 😂.
 
 <!---
 MatPaluch/MatPaluch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
